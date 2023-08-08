@@ -1,0 +1,52 @@
+form{
+    background-color: rgb(239, 243, 235);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    
+}
+.a{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    
+    
+}
+label{
+    color: blue;
+}
+h1,p{
+    color: red;
+    text-align: center;
+}
+input{
+    padding: 5px;
+background-color:rgb(158, 156, 156);
+border-radius: 5px;
+margin: 0.2em 0em 2em 0em;
+
+}
+body{
+    border: 1px solid blue;
+    box-shadow: 2em 1em 4em ;
+    background-color:green;
+    margin: 400px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.a select,textarea{
+    padding: 3px;
+    border-radius: 10px;
+    margin: 0.25em 0em 2em 0em;
+    background-color: rgb(158, 156, 156);
+}
+button{
+    background-color: black;
+    color: aliceblue;
+
+
+    font-family: 'Times New Roman', Times, serif;
+    padding: 7px;
+    border-radius: 100px;
+}
